@@ -1,0 +1,9 @@
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\WebRoot\main.css
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\web.config
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\project_planner_api.deps.json
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\project_planner_api.runtimeconfig.json
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\project_planner_api.runtimeconfig.dev.json
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\project_planner_api.dll
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\bin\Debug\netcoreapp2.0\project_planner_api.pdb
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\obj\Debug\netcoreapp2.0\project_planner_api.dll
+C:\Users\Steffen\Programming Projects\ProjectPlanner\project-planner-api\src\project-planner-api\obj\Debug\netcoreapp2.0\project_planner_api.pdb
